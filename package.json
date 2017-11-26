@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codemarq/friendFinder.git"
+    "url": "git+https://github.com/apatron100/FriendFinder.git"
   },
   "keywords": [
     "express",
     "node"
   ],
-  "author": "John-Mike Marquardt",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/codemarq/friendFinder/issues"
+    "url": "https://github.com/apatron100/FriendFinder/issues"
   },
-  "homepage": "https://github.com/codemarq/friendFinder#readme",
+  "homepage": "https://github.com/apatron100/FriendFinder#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
