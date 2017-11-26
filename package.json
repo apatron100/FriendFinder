@@ -1,4 +1,4 @@
- {
+{
   "name": "friend_finder",
   "version": "1.0.0",
   "description": "fullstack friend finder app using node, express",
@@ -27,8 +27,3 @@
     "path": "^0.12.7"
   }
 }
-© 2017 GitHub, Inc.
-	 
-
-	     
-	     
